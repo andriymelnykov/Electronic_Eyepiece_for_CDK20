@@ -16,3 +16,14 @@ Although this version was designed specifically for our CDK20, the electronic ey
 See it in action: youtube URL
 
 See discussion here: cloudynights URL
+
+-------------------------
+Software used on PC for image processing is my other project:
+https://github.com/andriymelnykov/Digital_Eyepiece_APP
+
+Config files are provided as used on our CDK20 telescope and are examples.
+Proper dark frames and flat frames calibration and eventually fine tuning of parameters needed for each device and telescope combination.
+Calibration frames must be updated periodically (capture with third party SW).
+The relative position of optical unit to telescope should be maintained for proper flat correction (see alignment marks in user manual).
+
+User manual is an example.
