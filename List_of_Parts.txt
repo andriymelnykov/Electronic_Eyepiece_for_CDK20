@@ -67,4 +67,4 @@ Glass diameter 33.0-33.2 mm.
 
 24. Transparent 3d-printing filament.
 
-25. M3 inserts for 3d-printing - 8x
+25. M3 inserts for 3d-printing - 10x
