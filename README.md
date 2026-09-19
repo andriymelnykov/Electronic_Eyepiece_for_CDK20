@@ -1,4 +1,4 @@
-# Electronic_Eyepiece_CDK20
+# Electronic_Eyepiece_for_CDK20
 Electronic eyepiece for CDK20 telescope (or almost any 2-inch focuser)
 
 This is my third creation of electronic eyepiece system for observing deep-sky objects.
