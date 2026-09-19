@@ -1,1 +1,167 @@
-placeholder
+# DIY Electronic Eyepiece Hardware License 1.0
+
+Copyright ©2026, Andriy Melnykov
+
+Original project: **Electronic_Eyepiece_for_CDK20**
+Original project URL: **https://github.com/andriymelnykov/Electronic_Eyepiece_for_CDK20**
+
+## 1. Purpose
+
+This License is intended to allow individuals, clubs, educational institutions, observatories, companies, and other organizations to study, build,
+use, modify, and share this hardware design.
+The Design may also be used for commercial activities, including paid observing events, demonstrations, exhibitions, education, or operation by
+a commercial organization.
+However, Devices based on the Design may not be manufactured or transferred to third parties for profit.
+Cost-recovery transfers are permitted as described below.
+
+## 2. Definitions
+
+For the purposes of this License:
+
+**Design** means the hardware design materials distributed under this License, including mechanical drawings, CAD files, schematics, PCB layouts,
+wiring diagrams, optical arrangements, manufacturing files, bills of materials, and related technical documentation.
+
+**Device** means a physical device manufactured substantially from the Design or from a Derivative Design.
+
+**Derivative Design** means a modified, adapted, extended, redesigned, or otherwise altered version of the Design.
+
+**Actual Direct Cost** means the documented amount actually paid for the components, materials, parts, third-party fabrication, third-party assembly,
+taxes, customs charges, and other direct production costs incorporated into a particular Device.
+
+Actual Direct Cost does not include:
+* profit or markup;
+* compensation for the owner's own labor;
+* compensation for design or development work;
+* general business overhead;
+* marketing or sales expenses;
+* royalties;
+* reseller margin;
+* increased market value caused by scarcity, demand, collectability, or similar factors.
+
+Actual shipping, insurance, and payment-processing costs directly associated with transferring a Device may be charged separately, provided that
+they are passed through without markup.
+
+## 3. Permission to Use the Design
+
+Subject to the conditions of this License, you may:
+
+a. obtain, copy, study, and use the Design;
+b. manufacture one or more Devices for your own use;
+c. have Devices or individual parts manufactured or assembled for you by third parties;
+d. modify the Design and create Derivative Designs;
+e. publish and redistribute the Design or Derivative Designs;
+f. use a Device privately, publicly, institutionally, educationally, or commercially.
+
+Commercial use of a Device is expressly permitted.
+For example, a Device may be used at paid public observing events, exhibitions, demonstrations, educational activities, museums, observatories,
+or other activities for which a fee is charged.
+
+## 4. Paid Fabrication and Assembly
+
+You may pay another person or organization to fabricate, machine, print, manufacture, solder, assemble, test, or otherwise assist in producing
+a Device for you.
+A fabrication or assembly service may charge its normal service fees for work commissioned by the intended owner or user of the Device.
+Such paid fabrication or assembly does not, by itself, constitute prohibited commercial sale of the Device.
+However, this permission does not allow a manufacturer, assembler, reseller, or other party to offer Devices based on the Design as commercial
+products for sale at a profit.
+
+## 5. Transfer and Sale of Physical Devices
+
+A Device may be given, donated, exchanged, or sold to another person or organization.
+If money or other compensation is received in connection with the transfer, the total amount charged for the Device must not exceed its Actual Direct Cost.
+No profit, markup, reseller margin, royalty, or other financial gain may be added to the Device.
+This restriction applies to both new and used Devices.
+A used Device may therefore be sold for less than or equal to its Actual Direct Cost, but it may not be sold above that amount because of scarcity,
+demand, collectability, market price, or any other reason.
+If additional components or upgrades are later incorporated into a Device, their documented Actual Direct Cost may be added to the Device's cost basis.
+
+## 6. Prohibited Commercial Manufacture and Sale
+
+You may not manufacture, have manufactured, advertise, offer, distribute, or sell Devices based on the Design or a Derivative Design as products for profit.
+In particular, you may not:
+a. manufacture Devices for commercial resale with a markup;
+b. offer Devices as made-to-order commercial products for profit;
+c. act as a commercial reseller of Devices for profit;
+d. add a profit margin to the transfer price of a Device;
+e. avoid this restriction by making minor or cosmetic modifications to the Design.
+
+This restriction concerns the commercial sale or transfer of physical Devices.
+It does not prohibit commercial use of a Device that was lawfully manufactured or acquired under this License.
+
+## 7. Derivative Designs
+
+You may modify, adapt, improve, extend, or redesign the Design.
+Any Derivative Design that is published, distributed, or otherwise made available to third parties must be licensed in its entirety under this same
+**DIY Electronic Eyepiece Hardware License 1.0**.
+The restrictions concerning manufacture, transfer, sale, and profit apply equally to Derivative Designs and Devices made from them, regardless of
+the extent of the modifications.
+You may not impose additional terms on a Derivative Design that remove or restrict the rights granted by this License.
+
+## 8. Attribution
+
+Any published or redistributed copy of the Design or a Derivative Design must retain clear attribution to the original project.
+At minimum, the attribution must include:
+
+**Original author:** Andriy Melnykov
+**Original project:** Electronic_Eyepiece_for_CDK20
+**Original project URL:** https://github.com/andriymelnykov/Electronic_Eyepiece_for_CDK20
+
+The original attribution may not be removed, hidden, or replaced.
+Authors of modifications and Derivative Designs may add their own names, project names, links, and copyright notices in addition to the original attribution.
+A Derivative Design should clearly indicate that it has been modified from the original project.
+For example:
+“Based on [NAME / PROJECT], [PROJECT URL]. Modified by [NAME / PROJECT].”
+
+## 9. No Endorsement
+
+Use of the Design or creation of a Derivative Design does not imply endorsement, approval, certification, sponsorship, or warranty by the original
+author or project.
+This License does not grant permission to use trademarks, logos, organization names, or other protected branding except as reasonably necessary
+to provide the attribution required by this License.
+
+## 10. Third-Party Components and Materials
+
+The Design may refer to or incorporate third-party products, components, software, firmware, documentation, trademarks, or other materials.
+Those third-party materials remain subject to their own licenses, terms, and intellectual-property rights.
+This License applies only to material for which the licensor has the authority to grant rights.
+
+## 11. License Notice
+
+When redistributing the Design or a Derivative Design, you must include either:
+a. a complete copy of this License; or
+b. a clearly visible link to the complete text of this License.
+
+You must not represent a Design or Derivative Design as being licensed under different terms where doing so would remove the obligations imposed
+by this License.
+
+## 12. Termination
+
+Your rights under this License terminate automatically if you materially violate its terms.
+Termination does not affect the rights of persons who previously received the Design or a Derivative Design from you in compliance with this License.
+
+## 13. Disclaimer of Warranty
+
+THE DESIGN AND ALL RELATED MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+THE LICENSOR DOES NOT WARRANT THAT THE DESIGN IS ERROR-FREE, SAFE, SUITABLE FOR ANY PARTICULAR PURPOSE, OR COMPATIBLE WITH ANY PARTICULAR TELESCOPE,
+CAMERA, OPTICAL SYSTEM, ELECTRICAL SYSTEM, OR OTHER EQUIPMENT.
+ANY PERSON BUILDING OR USING A DEVICE DOES SO AT THEIR OWN RISK AND IS RESPONSIBLE FOR VERIFYING ITS MECHANICAL, ELECTRICAL, OPTICAL, AND OPERATIONAL SAFETY.
+
+## 14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL,
+OR OTHER DAMAGES ARISING FROM THE DESIGN, THE MANUFACTURE OF A DEVICE, OR THE USE OF A DEVICE.
+
+Nothing in this License excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 15. Intellectual Property
+
+This License grants permission only to the extent that the licensor has intellectual-property rights capable of being licensed.
+Nothing in this License should be interpreted as creating intellectual-property rights that do not otherwise exist under applicable law.
+The ability of copyright or other intellectual-property rights to control the manufacture or sale of a physical Device may vary depending
+on jurisdiction and on the nature of the Design.
+
+## 16. Acceptance
+
+You are not required to accept this License merely to inspect or read materials that you are legally entitled to inspect.
+By exercising rights granted only by this License, including redistributing the Design, publishing a Derivative Design, or manufacturing a Device
+where permission is required, you agree to comply with its terms.
