@@ -12,3 +12,7 @@ Thanks to this combination, most objects begin to appear in the eyepiece almost 
 The electronic eyepiece creates a very different observing experience compared with looking at a normal computer screen. The image is presented optically at infinity, similar to a conventional telescope eyepiece, so the object appears large, distant, and suspended in space. It gives the impression of actually looking into the telescope rather than watching an image on a monitor.
 
 Although this version was designed specifically for our CDK20, the electronic eyepiece itself should work with many telescopes equipped with a 2-inch focuser and sufficient image-circle coverage for a full-frame sensor.
+
+See it in action: youtube URL
+
+See discussion here: cloudynights URL
