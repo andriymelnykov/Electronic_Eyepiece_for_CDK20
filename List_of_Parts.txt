@@ -1,1 +1,70 @@
-placeholder
+1. Camera: ToupTek SkyEye24AC.
+https://www.touptek-astro.com/dso-cooled-cameras/SkyEye24AC/
+
+2. ToupTek M54M-M48F 21mm and M48M-M48F 16.5mm Extension Tubes from SkyEye24AC Package Contents.
+
+3. TS-Optics TSVF215 M48M-M48F 15mm Extension Tube.
+https://www.teleskop-express.de/de/adapter-10/adapter-verlaengerung-124/ts-optics-15mm-verlaengerung-mit-m48-2-filtergewinde-und-2-durchmesser-1651
+Alternatively any M48M-M48F 15mm Extension Tube with outer diameter of 50.8 mm (2 inches).
+
+4. TS-Optics TSFSLM48 M48 Filter Changer - strengthened Design.
+https://www.teleskop-express.de/en/filters-254/filter-wheels-and-filterslider-120/ts-optics-m48-filter-changer-strengthened-design-10475
+Plus filter holders, 3x in total.
+Alternatively any M48M-M48F 2-inch filter holder with thickness of 16-18mm.
+
+5. Optolong UV/IR Blocking Filter and Luminance Filter 2" mounted.
+https://www.teleskop-express.de/en/filters-254/photo-r-g-b-and-ir-cut-filters-267/optolong-uv-ir-blocking-filter-and-luminance-filter-2-mounted-11845
+
+6. Optolong 2" L-eNhance Nebula Filter.
+https://www.teleskop-express.de/en/filters-254/photo-swanband-nebular-filters-304/photo-narrowband-filters-2-inch-m48-302/optolong-2-l-enhance-nebula-filter-for-dslr-and-color-astro-cameras-11238
+
+7. Baader 2" UHC-L Ultra-L-Booster Nebula Filter.
+https://www.teleskop-express.de/en/filters-254/nebular-filters-for-visual-observing-88/baader-2-uhc-l-ultra-l-booster-nebula-filter-for-astrophotography-16364
+
+8. TS-Optics CCD47 2" CCD Reducer 0.67x.
+https://www.teleskop-express.de/en/astrophotography-and-photography-15/imaging-correctors-for-telescopes-138/ts-optics-2-ccd-reducer-0-67x-for-rc-flatfield-telescopes-up-to-f-8-8932
+Alternatively Astro Physics CCDT67 0.67x Focal Reducer should be ok, but not tested.
+
+9. 2x compression springs 35mm x 9mm x 0.7mm from common spring set.
+Depending on your preferences other springs may be needed.
+
+10. Wisecoco 2.9 Inch 2K TFT LCD Display 2160x2160 LS029B3SX06 with HDMI control board.
+https://de.aliexpress.com/item/1005008080918162.html
+
+11. Fischerelektronik USB 2 B 180 - USB 2.0 Typ B connector receptacle.
+https://www.reichelt.de/de/de/shop/produkt/usb_2_0_typ_b_buchse-304025
+Or similar with same dimensions.
+
+12. CHERRY MX1B-52NA Low profile RGB speed switch for keyboards.
+https://www.reichelt.de/de/de/shop/produkt/cherry_mx_low_profile_silver_rgb_speed_-_tastenmodul-281332
+
+13. Arduino Pro-Micro, ATMega32U4, 5V / 16 MHz.
+https://www.reichelt.de/de/de/shop/produkt/arduino_kompatibles_micro_pro_board_atmega32u4_microusb-330660
+
+14. RGB strip with 7x WS2812 LEDs.
+
+15. Short microUSB cable.
+
+16. 2x 561.OA61 OptiMedia Achromat OA61, Ø 31 mm, f = 135.5 mm.
+https://astromedia.de/OptiMedia-Achromat-OA61
+Alternatively achromats with same data.
+
+17. Grey ND8 filter size 37mm.
+https://www.ebay.de/itm/324441899850?var=513510410016
+Glass diameter 33.0-33.2 mm.
+
+18. Thick silicone grease.
+
+19. Screws M3x8 - 3x
+
+20. Screws M3x10 - 19x
+
+21. Screws M3x16 - 6x
+
+22. Screws M2.5x12 - 4x
+
+23. Black 3d-printing filament.
+
+24. Transparent 3d-printing filament.
+
+25. M3 inserts for 3d-printing - 8x
