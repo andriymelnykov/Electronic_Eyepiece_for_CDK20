@@ -13,9 +13,9 @@ The electronic eyepiece creates a very different observing experience compared w
 
 Although this version was designed specifically for our CDK20, the electronic eyepiece itself should work with many telescopes equipped with a 2-inch focuser and sufficient image-circle coverage for a full-frame sensor.
 
-See it in action: youtube URL
+See it in action: https://youtu.be/fDfaFu6sCa4
 
-See discussion here: cloudynights URL
+See discussion here: https://www.cloudynights.com/forums/topic/1010946-my-third-eaa-setup-with-diy-electronic-eyepiece-for-local-astroclub
 
 -------------------------
 Software used on PC for image processing is my other project:
